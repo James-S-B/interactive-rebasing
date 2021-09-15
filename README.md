@@ -1,5 +1,7 @@
 # interactive-rebase-demo
 
+Will use rebase command to clean up history
+
 Let's take this absurd commit history and use interactive rebase to clean things up!  
 
 The initial commit log:
